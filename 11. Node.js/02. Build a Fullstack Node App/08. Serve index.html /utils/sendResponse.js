@@ -1,7 +1,6 @@
-/*
-Challenge 2:
+export function sendResponse(res, statusCode, contentType, payload, ) {
+  res.statusCode = statusCode
+  res.setHeader('Content-Type', contentType)
+  res.end(payload)
+}
 
-- Create and export a function called sendResponse().  
-  What 4 things should this function take in as parameters?
-
-*/

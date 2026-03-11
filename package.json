@@ -1,0 +1,20 @@
+{
+  "name": "from-the-other-side",
+  "version": "1.0.0",
+  "description": "A platform for sharing ghostly encounters",
+  "homepage": "https://github.com/JerryChu-hub/learn-fullstack-development#readme",
+  "bugs": {
+    "url": "https://github.com/JerryChu-hub/learn-fullstack-development/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryChu-hub/learn-fullstack-development.git"
+  },
+  "license": "ISC",
+  "author": "JerryChu",
+  "type": "module",
+  "main": "11. Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
