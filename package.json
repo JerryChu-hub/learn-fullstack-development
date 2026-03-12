@@ -16,5 +16,8 @@
   "main": "11. Node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sanitize-html": "^2.17.1"
   }
 }
